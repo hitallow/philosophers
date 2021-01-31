@@ -1,0 +1,94 @@
+{
+  "philosophers": [
+    {
+      "name": "Platão",
+      "phrases": [
+        "De todos os animais selvagens, o homem jovem é o mais difícil de domar.",
+        "Deve-se temer a velhice, porque ela nunca vem só. Bengalas são provas de idade e não de prudência.",
+        "Quem comete uma injustiça é sempre mais infeliz que o injustiçado.",
+        "Tente mover o mundo – o primeiro passo será mover a si mesmo.",
+        "Uma vida não questionada não merece ser vivida."
+      ]
+    },
+    {
+      "name": "Aristóteles",
+      "phrases": [
+        "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+        "O ignorante afirma, o sábio duvida, o sensato reflete.",
+        "A dúvida é o princípio da sabedoria",
+        "Ter muitos amigos é não ter nenhum.",
+        "O que é um amigo? Uma única alma habitando dois corpos."
+      ]
+    },
+    {
+      "name": "Jesus",
+      "phrases": [
+        "De que serve ao homem conquistar o mundo inteiro se perder a alma?",
+        "O Senhor oculta algumas coisas aos sábios, mas as revela aos pequeninos.",
+        "Pois que aproveita ao homem se ganhar o mundo inteiro e perder a sua alma? Ou que dará o homem em troca da sua vida?",
+        "Se alguém te der um tapa, oferece o outro lado da face para outro tapa.",
+        "Bem aventurados os pacificadores, porque serão chamados filhos de Deus."
+      ]
+    },
+    {
+      "name": "Maquiavel",
+      "phrases": [
+        "Todos veem o que você parece ser, mas poucos sabem o que você realmente é.",
+        "Há três espécies de cérebros: uns entendem por si próprios; os outros discernem o que os primeiros entendem; e os terceiros não entendem nem por si próprios nem pelos outros; os primeiros são excelentíssimos; os segundos excelentes; e os terceiros totalmente inúteis",
+        "Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos.",
+        "Os homens têm menos escrúpulos em ofender quem se faz amar do que quem se faz temer, pois o amor é mantido por vínculos de gratidão que se rompem quando deixam de ser necessários, já que os homens são egoístas; mas o temor é mantido pelo medo do castigo, que nunca falha.",
+        "O primeiro método para estimar a inteligência de um governante é olhar para os homens que tem à sua volta."
+      ]
+    },
+    {
+      "name": "Sócrates",
+      "phrases": [
+        "Para conseguir a amizade de uma pessoa digna é preciso desenvolvermos em nós mesmos as qualidades que naquela admiramos.",
+        "Deve-se temer mais o amor de uma mulher do que o ódio de um homem.",
+        "Sábio é aquele que conhece os limites da própria ignorância.",
+        "Só sei que nada sei.",
+        "Uma vida sem desafios não vale a pena ser vivida."
+      ]
+    },
+    {
+      "name": "Nietzsche",
+      "phrases": [
+        "A vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez.",
+        "As convicções são inimigas mais perigosas da verdade do que as mentiras.",
+        "É mais fácil lidar com uma má consciência do que com uma má reputação.",
+        "Não há fatos eternos, como não há verdades absolutas.",
+        "O que não provoca minha morte faz com que eu fique mais forte."
+      ]
+    },
+    {
+      "name": "Descartes",
+      "phrases": [
+        "Muitas vezes as coisas que me pareceram verdadeiras quando comecei a concebê-las tornaram-se falsas quando quis colocá-las sobre o papel.",
+        "A leitura de todos os bons livros é uma conversação com as mais honestas pessoas dos séculos passados.",
+        "Basta ajuizar bem para bem fazer, e julgar o melhor que nos seja possível para fazermos também o nosso melhor.",
+        "Não basta termos um bom espírito, o mais importante é aplicá-lo bem.",
+        "Tomei a decisão de fingir que todas as coisas que até então haviam entrado na minha mente não eram mais verdadeiras do que as ilusões dos meus sonhos."
+      ]
+    },
+    {
+      "name": "Kant",
+      "phrases": [
+        "A amizade é semelhante a um bom café; uma vez frio, não se aquece sem perder bastante do primeiro sabor.",
+        "Podemos julgar o coração de um homem pela forma como ele trata os animais.",
+        "Toda reforma interior e toda mudança para melhor dependem exclusivamente da aplicação do nosso próprio esforço.",
+        "O homem não é nada além daquilo que a educação faz dele.",
+        "A sabedoria das mulheres não é raciocinar, é sentir."
+      ]
+    },
+    {
+      "name": "Confúcio",
+      "phrases": [
+        "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade.",
+        "Exige muito de ti e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.",
+        "Quando vires um homem bom, tenta imitá-lo; quando vires um homem mau, examina-te a ti mesmo.",
+        "Escolhe um trabalho de que gostes e não terás que trabalhar nem um dia na tua vida.",
+        "Aja antes de falar e, portanto, fale de acordo com os seus atos."
+      ]
+    }
+  ]
+}
